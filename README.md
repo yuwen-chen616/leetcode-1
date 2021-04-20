@@ -10,4 +10,7 @@ leetcode list for yuwen
 - [ ] [82. 删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/)
 - [ ] [92. 反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii/)
 
+## 快速排序-变体
+- [ ][215 数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) tip:算法课和面试经常会碰到这个题诶
+
 # dfs/bfs/recursion
