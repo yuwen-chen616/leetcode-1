@@ -1,6 +1,7 @@
 # leetcode
-data structure for yuwen
+leetcode list for yuwen
 
 # data structure
+
 
 # dfs/bfs/recursion
